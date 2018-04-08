@@ -1,5 +1,5 @@
 # distributed-tensorflow-example
-an simple example of distributed tensorflow
+a simple example of distributed tensorflow
 
 run in-graph example (just modify hostname before running) 
 
